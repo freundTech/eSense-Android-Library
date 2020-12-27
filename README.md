@@ -43,6 +43,6 @@ implementation 'io.esense.esenselib:esenselib:1.0.1'
 ## Credits
 Pervasive Systems team at Nokia Bell Labs Cambridge maintains the upstream of this project voluntarily as a community service. Please [get in touch](mailto:info@esense.io) with us to contribute to this effort in advancing the earable computing research.
 
-Forked by Adrian Freund to provide automated builds and small improvement and small improvement and small improvements.
+Forked by Adrian Freund to provide automated builds and small improvements.
 
 CREDITS : [Alessandro Montanari](https://www.cl.cam.ac.uk/~am2266/), [Chulhong Min](https://chulhongmin.com/), [Akhil Mathur](https://akhilmathurs.github.io/), [Fahim Kawsar](https://www.fahim-kawsar.net/), [Adrian Freund](https://adrian.freund.io)
