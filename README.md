@@ -1,3 +1,4 @@
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/freundTech/eSense-Android-Library/Java%20CI) ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/freundTech/eSense-Android-Library) ![JitPack](https://img.shields.io/jitpack/v/github/freundTech/eSense-Android-Library) ![GitHub](https://img.shields.io/github/license/freundTech/eSense-Android-Library)
 # eSense Android Library
 Android Studio project containing a light-weight Android library to build mobile apps with [eSense](https://esense.io).
 
