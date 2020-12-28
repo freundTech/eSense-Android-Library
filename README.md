@@ -18,7 +18,7 @@ maven { url 'https://jitpack.io' }
 
 Then add the following to your dependencies section:
 ```groovy
-implementation 'com.github.freundTech:eSense-Android-Library:1.0.1'
+implementation 'com.github.freundTech:eSense-Android-Library:1.0.2'
 ```
 ### Github Package Registry
 Add the following to the `repositories` section of your build.gradle:
@@ -36,7 +36,7 @@ If you use GitHub Actions to build your project you can use the values of the `G
 
 Then add the following to your dependencies section:
 ```groovy
-implementation 'io.esense.esenselib:esenselib:1.0.1'
+implementation 'io.esense.esenselib:esenselib:1.0.2'
 ```
 
 
